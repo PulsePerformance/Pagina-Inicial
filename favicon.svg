@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Pulse Performance</title>
+  <rect width="64" height="64" rx="14" fill="#070809"/>
+  <path d="M31.6 11.5 11.3 47.5" fill="none" stroke="#ff5a17" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M31.6 11.5 52.7 47.5" fill="none" stroke="#ff5a17" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M13 49.5 H51" fill="none" stroke="#ff5a17" stroke-width="8.5" stroke-linecap="round"/>
+  <path d="M17.5 34.5 H24.5 L29.5 26.5 34.5 41 39.5 33.5 H46.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
